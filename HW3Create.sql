@@ -77,3 +77,32 @@ CREATE TABLE location(
 	city_market_id INT,
 	PRIMARY KEY (city_abr));
 
+ALTER TABLE aircraft
+ADD FOREIGN KEY (flight_id) REFERENCES flights(flight_id);
+
+ALTER TABLE airport
+ADD FOREIGN KEY (city_abr) REFERENCES location(city_abr);
+
+ALTER TABLE carrier_date
+ADD FOREIGN KEY (unique_carrier_entity) REFERENCES carrier(unique_carrier_entity);
+
+ALTER TABLE distance
+ADD FOREIGN KEY (origin_airport_id) REFERENCES airport(airport_id);
+
+ALTER TABLE distance
+ADD FOREIGN KEY (dest_airport_id) REFERENCES airport(airport_id);
+
+ALTER TABLE flights 
+ADD FOREIGN KEY (origin_airport_id) REFERENCES airport(airport_id);
+
+ALTER TABLE flights 
+ADD FOREIGN KEY (dest_airport_id) REFERENCES airport(airport_id);
+
+ALTER TABLE flights 
+ADD FOREIGN KEY (unique_carrier_entity) REFERENCES carrier(unique_carrier_entity);
+
+ALTER TABLE flights
+ADD FOREIGN KEY (month) REFERENCES month_to_quarter(month);
+
+ALTER TABLE location 
+ADD FOREIGN KEY (state_abr) REFERENCES state_abr(state_abr);

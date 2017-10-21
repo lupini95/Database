@@ -1,0 +1,43 @@
+unique_carrier,airline_id,unique_carrier_name,unique_carrier_entity,carrier,region_abr,carrier_name,carrier_group,carrier_group_new
+B6,20409,JetBlue Airways,6673,B6,D,JetBlue Airways,3,3
+VX,21171,Virgin America,1006,VX,D,Virgin America,3,3
+04Q,21080,Tradewind Aviation,1126,04Q,D,Tradewind Aviation,1,6
+AJQ,20354,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,6081,AJQ,D,Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways,1,5
+AMQ,20201,Ameristar Air Cargo,6055,AMQ,D,Ameristar Air Cargo,1,4
+G4,20368,Allegiant Air,6035,G4,D,Allegiant Air,3,3
+0WQ,21352,Avjet Corporation,1150,0WQ,D,Avjet Corporation,1,1
+AA,19805,American Airlines Inc.,0A050,AA,D,American Airlines Inc.,3,3
+DL,19790,Delta Air Lines Inc.,1260,DL,D,Delta Air Lines Inc.,3,3
+GL,20402,Miami Air International,6690,GL,D,Miami Air International,2,2
+UA,19977,United Air Lines Inc.,0A875,UA,D,United Air Lines Inc.,3,3
+UA,19977,United Air Lines Inc.,10877,UA,P,United Air Lines Inc.,3,3
+WN,19393,Southwest Airlines Co.,6725,WN,D,Southwest Airlines Co.,3,3
+WN,19393,Southwest Airlines Co.,11033,WN,L,Southwest Airlines Co.,3,3
+27Q,21652,"Jet Aviation Flight Services, Inc.",1194,27Q,D,"Jet Aviation Flight Services, Inc.",1,1
+X9,20377,Omni Air International LLC,16736,X9,I,Omni Air International LLC,2,2
+09Q,21161,"Swift Air, LLC",1130,09Q,D,"Swift Air, LLC",1,1
+KLQ,20372,Kalitta Charters II,6774,KLQ,D,Kalitta Charters II,1,1
+LF,21635,CFM Inc d/b/a Contour Airlines,1189,LF,D,CFM Inc d/b/a Contour Airlines,1,6
+SY,20422,Sun Country Airlines d/b/a MN Airlines,6795,SY,D,Sun Country Airlines d/b/a MN Airlines,2,2
+U7,20447,USA Jet Airlines Inc.,6912,U7,D,USA Jet Airlines Inc.,2,2
+9S,20190,Southern Air Inc.,6841,9S,D,Southern Air Inc.,2,2
+AS,19930,Alaska Airlines Inc.,6031,AS,D,Alaska Airlines Inc.,3,3
+AX,20237,Trans States Airlines,6904,AX,D,Trans States Airlines,1,5
+KS,20225,Peninsula Airways Inc.,6975,KS,D,Peninsula Airways Inc.,1,5
+ZK,20358,Great Lakes Airlines,6932,ZK,D,Great Lakes Airlines,1,6
+4B,21599,Boutique Air,1177,4B,D,Boutique Air,1,6
+G7,20500,GoJet Airlines LLC d/b/a United Express,7041,G7,D,GoJet Airlines LLC d/b/a United Express,2,2
+OO,20304,SkyWest Airlines Inc.,6700,OO,D,SkyWest Airlines Inc.,3,3
+YX,20452,Republic Airlines,6003,YX,D,Republic Airlines,2,2
+F9,20436,Frontier Airlines Inc.,6460,F9,D,Frontier Airlines Inc.,3,3
+FX,20107,Federal Express Corporation,6200,FX,D,Federal Express Corporation,3,3
+NK,20416,Spirit Air Lines,6830,NK,D,Spirit Air Lines,3,3
+YV,20378,Mesa Airlines Inc.,6689,YV,D,Mesa Airlines Inc.,2,2
+MQ,20398,Envoy Air,6820,MQ,D,Envoy Air,3,3
+EV,20366,ExpressJet Airlines Inc.,6085,EV,D,ExpressJet Airlines Inc.,3,3
+5X,19917,United Parcel Service,6910,5X,D,United Parcel Service,3,3
+9E,20363,Endeavor Air Inc.,7024,9E,D,Endeavor Air Inc.,2,2
+CP,21167,Compass Airlines,1131,CP,D,Compass Airlines,2,2
+1AQ,21477,Via Airlines d/b/a Charter Air Transport,1158,1AQ,D,Via Airlines d/b/a Charter Air Transport,1,6
+QX,19687,Horizon Air,6580,QX,D,Horizon Air,2,2
+EM,20263,Empire Airlines Inc.,6299,EM,D,Empire Airlines Inc.,1,5

@@ -1,0 +1,45 @@
+state_abr,state_name,state_fips
+CA,California,6
+CO,Colorado,8
+IA,Iowa,19
+ND,North Dakota,38
+MO,Missouri,29
+NC,North Carolina,37
+GA,Georgia,13
+NV,Nevada,32
+UT,Utah,49
+PA,Pennsylvania,42
+WY,Wyoming,56
+MI,Michigan,26
+MN,Minnesota,27
+OK,Oklahoma,40
+CT,Connecticut,9
+NE,Nebraska,31
+TX,Texas,48
+OH,Ohio,39
+AZ,Arizona,4
+NY,New York,36
+IL,Illinois,17
+AL,Alabama,1
+KY,Kentucky,21
+WA,Washington,53
+KS,Kansas,20
+FL,Florida,12
+VA,Virginia,51
+AR,Arkansas,5
+OR,Oregon,41
+MT,Montana,30
+NM,New Mexico,35
+MA,Massachusetts,25
+SC,South Carolina,45
+LA,Louisiana,22
+IN,Indiana,18
+TN,Tennessee,47
+NJ,New Jersey,34
+ID,Idaho,16
+WI,Wisconsin,55
+SD,South Dakota,46
+MD,Maryland,24
+HI,Hawaii,15
+AK,Alaska,2
+MS,Mississippi,28

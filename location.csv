@@ -1,0 +1,186 @@
+city_name,city_abr,state_abr,wac,city_market_id
+"Long Beach, CA",LGB,CA,91,32575
+"Denver, CO",DEN,CO,82,30325
+"San Francisco, CA",SFO,CA,91,32457
+"Des Moines, IA",DSM,IA,61,31423
+"Dickinson, ND",DIK,ND,66,31315
+"Eagle, CO",EGE,CO,82,31503
+"St. Louis, MO",STL,MO,64,31123
+"CONCORD, NC",USA,NC,36,32544
+"Atlanta, GA",ATL,GA,34,30397
+"Colorado Springs, CO",COS,CO,82,30189
+"Las Vegas, NV",LAS,NV,85,32211
+"Aspen, CO",ASE,CO,82,30372
+"Burbank, CA",BUR,CA,91,32575
+"Salt Lake City, UT",SLC,UT,87,34614
+"Philadelphia, PA",PHL,PA,23,34100
+"Casper, WY",CPR,WY,88,31122
+"Detroit, MI",DTW,MI,43,31295
+"Minneapolis, MN",MSP,MN,63,31650
+"Oklahoma City, OK",OKC,OK,73,33851
+"Hartford, CT",BDL,CT,11,30529
+"Oakland, CA",OAK,CA,91,32457
+"Scottsbluff, NE",BFF,NE,65,30558
+"Kansas City, MO",MKC,MO,64,33198
+"Cheyenne, WY",CYS,WY,88,31233
+"Dallas, TX",DAL,TX,74,30194
+"San Jose, CA",SJC,CA,91,32457
+"Denver, CO",APA,CO,82,30325
+"Austin, TX",AUS,TX,74,30423
+"Columbus, OH",CMH,OH,44,31066
+"Sugar Land, TX",SGR,TX,74,34792
+"Phoenix, AZ",AZA,AZ,81,30466
+"Brownsville, TX",BRO,TX,74,30747
+"Wendover, UT",ENV,UT,87,31563
+"Grand Junction, CO",GJT,CO,82,31921
+"Rochester, NY",ROC,NY,22,34576
+"Tulsa, OK",TUL,OK,73,34653
+"Chicago, IL",DPA,IL,41,30977
+"Reno, NV",RNO,NV,85,34570
+"Fort Collins/Loveland, CO",FNL,CO,82,31719
+"Bullhead City, AZ",IFP,AZ,81,30590
+"Montrose/Delta, CO",MTJ,CO,82,33502
+"Pueblo, CO",PUB,CO,82,34288
+"Gadsden, AL",GAD,AL,51,31840
+"Cincinnati, OH",CVG,KY,52,33105
+"Seattle, WA",SEA,WA,93,30559
+"Dodge City, KS",DDC,KS,62,31283
+"Kearney, NE",EAR,NE,65,31468
+"North Platte, NE",LBF,NE,65,32899
+"Liberal, KS",LBL,KS,62,32902
+"Williston, ND",ISN,ND,66,32389
+"Orlando, FL",MCO,FL,33,31454
+"Chicago, IL",ORD,IL,41,30977
+"Raleigh/Durham, NC",RDU,NC,36,34492
+"Grand Rapids, MI",GRR,MI,43,31986
+"Cody, WY",COD,WY,88,31097
+"Washington, DC",DCA,VA,38,30852
+"Dallas/Fort Worth, TX",DFW,TX,74,30194
+"Houston, TX",IAH,TX,74,31453
+"Jackson, WY",JAC,WY,88,32441
+"Laramie, WY",LAR,WY,88,32888
+"Los Angeles, CA",LAX,CA,91,32575
+"Little Rock, AR",LIT,AR,71,32600
+"Medford, OR",MFR,OR,92,33264
+"Missoula, MT",MSO,MT,84,33486
+"Portland, OR",PDX,OR,92,34057
+"Pasco/Kennewick/Richland, WA",PSC,WA,93,34252
+"San Diego, CA",SAN,CA,91,33570
+"San Antonio, TX",SAT,TX,74,33214
+"St. George, UT",SGU,UT,87,34794
+"Sacramento, CA",SMF,CA,91,33192
+"Santa Ana, CA",SNA,CA,91,32575
+"Albuquerque, NM",ABQ,NM,86,30140
+"Boston, MA",BOS,MA,13,30721
+"Bozeman, MT",BZN,MT,84,30849
+"Washington, DC",IAD,VA,38,30852
+"Kansas City, MO",MCI,MO,64,33198
+"Palm Springs, CA",PSP,CA,91,34262
+"Richmond, VA",RIC,VA,38,34524
+"Santa Barbara, CA",SBA,CA,91,34689
+"Charleston, SC",CHS,SC,37,30994
+"Cleveland, OH",CLE,OH,44,30647
+"New Orleans, LA",MSY,LA,72,33495
+"Pittsburgh, PA",PIT,PA,23,30198
+"Fort Myers, FL",RSW,FL,33,31714
+"Wichita, KS",ICT,KS,62,30928
+"Louisville, KY",SDF,KY,52,33044
+"Indianapolis, IN",IND,IN,42,32337
+"Phoenix, AZ",PHX,AZ,81,30466
+"Tampa, FL",TPA,FL,33,33195
+"Knoxville, TN",TYS,TN,54,35412
+"Memphis, TN",MEM,TN,54,33244
+"Durango, CO",DRO,CO,82,30285
+"Salina, KS",SLN,KS,62,34877
+"Fresno, CA",FAT,CA,91,31638
+"Great Falls, MT",GTF,MT,84,31895
+"Fayetteville, AR",XNA,AR,71,31834
+"Eugene, OR",EUG,OR,92,31603
+"Newark, NJ",EWR,NJ,21,31703
+"Spokane, WA",GEG,WA,93,31884
+"Tucson, AZ",TUS,AZ,81,30436
+"Boise, ID",BOI,ID,83,30713
+"Madison, WI",MSN,WI,45,33485
+"Moline, IL",MLI,IL,41,33367
+"Amarillo, TX",AMA,TX,74,30279
+"Lubbock, TX",LBB,TX,74,32896
+"Ontario, CA",ONT,CA,91,32575
+"Rapid City, SD",RAP,SD,67,34457
+"Baltimore, MD",BWI,MD,35,30852
+"Charlotte, NC",CLT,NC,36,31057
+"Albany, NY",ALB,NY,22,30257
+"Omaha, NE",OMA,NE,65,33316
+"Norfolk, VA",ORF,VA,38,33667
+"Birmingham, AL",BHM,AL,51,30599
+"Cedar Rapids/Iowa City, IA",CID,IA,61,31003
+"Billings, MT",BIL,MT,84,30620
+"Shreveport, LA",SHV,LA,72,30476
+"Springfield, MO",SGF,MO,64,34783
+"Kalispell, MT",FCA,MT,84,31648
+"Lihue, HI",LIH,HI,2,32982
+"Milwaukee, WI",MKE,WI,45,33342
+"El Paso, TX",ELP,TX,74,30615
+"Fort Lauderdale, FL",FLL,FL,33,32467
+"Nashville, TN",BNA,TN,54,30693
+"Houston, TX",HOU,TX,74,31453
+"Minot, ND",MOT,ND,66,33304
+"North Bend/Coos Bay, OR",OTH,OR,92,33964
+"Bend/Redmond, OR",RDM,OR,92,34489
+"Jacksonville, FL",JAX,FL,33,31136
+"Bakersfield, CA",BFL,CA,91,30561
+"Pensacola, FL",PNS,FL,33,33728
+"Sioux Falls, SD",FSD,SD,67,31775
+"Gunnison, CO",GUC,CO,82,32012
+"Hayden, CO",HDN,CO,82,34699
+"Branson, MO",BKG,MO,64,30643
+"Telluride, CO",TEX,CO,82,35177
+"Cortez, CO",CEZ,CO,82,30950
+"New York, NY",JFK,NY,22,31703
+"New York, NY",LGA,NY,22,31703
+"Greensboro/High Point, NC",GSO,NC,36,31995
+"Rockford, IL",RFD,IL,41,34512
+"Dallas/Fort Worth, TX",AFW,TX,74,30194
+"Dayton, OH",DAY,OH,44,31267
+"Farmington, NM",FMN,NM,86,31711
+"Devils Lake, ND",DVL,ND,66,31447
+"Lincoln, NE",LNK,NE,65,33029
+"Bismarck/Mandan, ND",BIS,ND,66,30627
+"San Luis Obispo, CA",SBP,CA,91,34236
+"Midland/Odessa, TX",MAF,TX,74,33158
+"Kona, HI",KOA,HI,2,32758
+"Kahului, HI",OGG,HI,2,33830
+"Alamosa, CO",ALS,CO,82,30272
+"Miami, FL",MIA,FL,33,32467
+"Helena, MT",HLN,MT,84,32156
+"Jamestown, ND",JMS,ND,66,32519
+"Honolulu, HI",HNL,HI,2,32134
+"Huntsville, AL",HSV,AL,51,30255
+"Fargo, ND",FAR,ND,66,31637
+"Riverton/Lander, WY",RIW,WY,88,34534
+"Anchorage, AK",ANC,AK,1,30299
+"Pierre, SD",PIR,SD,67,34120
+"Hays, KS",HYS,KS,62,32255
+"Alliance, NE",AIA,NE,65,30221
+"Chadron, NE",CDR,NE,65,30925
+"McCook, NE",MCK,NE,65,33200
+"Vernal, UT",VEL,UT,87,35582
+"Gillette, WY",GCC,WY,88,31865
+"Rock Springs, WY",RKS,WY,88,34543
+"Moab, UT",CNY,UT,87,31092
+"Santa Fe, NM",SAF,NM,86,34674
+"Idaho Falls, ID",IDA,ID,83,32280
+"Chicago, IL",MDW,IL,41,30977
+"Greer, SC",GSP,SC,37,31871
+"Victorville, CA",VCV,CA,91,35570
+"Detroit, MI",YIP,MI,43,31295
+"Jackson/Vicksburg, MS",JAN,MS,53,32448
+"Buffalo, NY",BUF,NY,22,30792
+"Corpus Christi, TX",CRP,TX,74,31140
+"Panama City, FL",ECP,FL,33,31481
+"Gulfport/Biloxi, MS",GPT,MS,53,31973
+"Pontiac, MI",PTK,MI,43,34275
+"Page, AZ",PGA,AZ,81,34081
+"Watertown, SD",ATY,SD,67,30409
+"Sun Valley/Hailey/Ketchum, ID",SUN,ID,83,35041
+"Lawton/Fort Sill, OK",LAW,OK,73,32891
+"Seattle, WA",BFI,WA,93,30559
